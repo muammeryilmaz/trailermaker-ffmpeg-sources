@@ -1,10 +1,10 @@
-# TrailerMaker — FFmpeg corresponding source
+# Mydos Cut — FFmpeg corresponding source
 
 This repository provides the source code of the open source native libraries
-distributed inside the **TrailerMaker** Android app, as required by the GNU
+distributed inside the **Mydos Cut** Android app (package `com.mydoscode.mydoscut`, formerly TrailerMaker), as required by the GNU
 Lesser General Public License (LGPL). The app's own code is not part of it.
 
-*Türkçe özet: TrailerMaker Android uygulamasının içinde dağıtılan FFmpeg ve
+*Türkçe özet: Mydos Cut Android uygulamasının içinde dağıtılan FFmpeg ve
 onunla gelen açık kaynak kütüphanelerin kaynak kodları LGPL gereği burada
 yayınlanır. Uygulamanın kendi kodu bu depoda değildir.*
 
